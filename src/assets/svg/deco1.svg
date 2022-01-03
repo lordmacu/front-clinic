@@ -1,0 +1,19 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+	<title>New Project</title>
+	<defs>
+		<image  width="400" height="400" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAACpJREFUeJztwTEBAAAAwqD1T+1vBqAAAAAAAAAAAAAAAAAAAAAAAAAAgDdPsAABORaXeAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #1486e7 } 
+		.s1 { fill: #ffffff } 
+		.s2 { fill: #ff0000 } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+	<path id="Shape 1" class="s0" d="m80 163c-120 227.89 205 237 205 237h-285v-277c23 33.89 200-187.89 80 40zm0 0c-120 227.89 205 237 205 237h-285v-277c23 33.89 200-187.89 80 40z" />
+	<path id="Shape 5" class="s0" d="m505 237" />
+	<path id="Shape 4" class="s0" d="m458 121" />
+	<path id="Shape 1 copy" class="s1" d="m73 172c-120 227.89 205 237 205 237h-285v-277c23 33.89 200-187.89 80 40zm0 0c-120 227.89 205 237 205 237h-285v-277c23 33.89 200-187.89 80 40z" />
+	<path id="Shape 3" class="s1" d="m-183 385" />
+	<path id="Shape 2" class="s2" d="m52 200" />
+</svg>
